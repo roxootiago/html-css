@@ -1,0 +1,29 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Estágio Senac",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Estágio Senac",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src":"assets/img/android/android-launchericon-48-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/img/android/android-launchericon-192-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "description": "Encontre vagas de estágio exclusivas para alunos da Faculdade Senac e tenha consultoria e monitoria do setor de empregabilidade",
+  "lang": "pt",
+  "categories": [
+    "books",
+    "education"
+  ]
+}
