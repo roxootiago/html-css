@@ -16,4 +16,4 @@ Este repositório reúne todos os meus projetos front-end feitos com **HTML** e 
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/roxootiago/html-css.git
