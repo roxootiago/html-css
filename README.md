@@ -4,7 +4,7 @@ Este repositório reúne todos os meus projetos front-end feitos com **HTML** e 
 
 ## 💻 Projetos
 
-| Projeto | Descrição | Link |
+| Projeto | Título | Link |
 |---------|-----------|------|
 | Projeto 1 | Mobile PWA | [Ver Projeto](https://github.com/roxootiago/html-css/tree/bb4474750de4f2bc8e8c55e6e42926e39d21eaf4/mobile-pwa) |
 | Projeto 2 | Cadastro para jogos | [Ver Projeto](https://github.com/roxootiago/html-css/tree/bb4474750de4f2bc8e8c55e6e42926e39d21eaf4/sistema-de-cadastro-de-jogos) |
